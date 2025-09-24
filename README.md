@@ -4,6 +4,8 @@
 **Target Resolution:** 1280×720 (Windowed)
 **Platform:** Xojo Desktop Application
 
+<img width="1392" height="861" alt="Chain Reaction Simulator" src="https://github.com/user-attachments/assets/6beddfda-15b1-4884-9309-edcaf7a77644" />
+
 ## Overview
 
 Chain Reaction Simulator is a strategic puzzle game where players create cascading chain reactions to clear grids of orbs with minimal clicks. The game challenges players to think strategically about orb placement to trigger the most efficient chain reactions possible.
